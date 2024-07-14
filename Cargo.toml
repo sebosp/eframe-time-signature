@@ -19,6 +19,7 @@ eframe = { version = "0.28", default-features = false, features = [
     "persistence",   # Enable restoring app state when restarting the app.
 ] }
 log = "0.4"
+volv0x = { path = "/data/git/esp-wifi-sebosp/volv0x/" }
 
 # You only need serde if you want app persistence:
 serde = { version = "1", features = ["derive"] }
