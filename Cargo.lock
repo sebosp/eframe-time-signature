@@ -843,7 +843,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "eframe_template"
+name = "eframe_volv0x"
 version = "0.1.0"
 dependencies = [
  "eframe",
